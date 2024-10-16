@@ -60,9 +60,14 @@
 <h3 align="left">🔥   My Stats :</h3>
 -->
 ###
-
+<!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Nicoskin&theme=dark&locale=ru" height="220" alt="streak graph"  />
+</div>
+-->
+
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nicoskin&theme=shadow-orange&hide_border=true&border_radius=10&locale=ru" height="300" alt="GitHub Streak" /></a>
 </div>
 
 ###
