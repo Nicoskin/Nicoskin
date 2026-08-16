@@ -1,89 +1,29 @@
-<!--
-<h1 align="center">Hi 👋, I'm Vladimir</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/16288096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16288096" height="30" width="40" /></a>
-</p>
--->
-<!--
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
--->
-
-<!--
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
--->
 
 ###
 
 <h1 align="center">Hi there 👋</h1>
-<!--
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nicoskin.Nicoskin&"  />
-</div>
--->
 
-<!--
-<h3 align="left">👩‍💻  About Me</h3>
 
-###
 
-<p align="left">I'm Vladimir<!-- from ....<br><br>- 🔭 I’m working an sdr project <br>- 📚 I'm currently learning Python and a bit of Matlab <br>- ⚡ In my free time I watch movies or play Dota)</p>-->
-
-###
-<!--
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <p align="left"> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> </p>
-</div>
--->
-###
-<!--
-<h3 align="left">🔥   My Stats :</h3>
--->
-###
-<!--
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nicoskin&theme=dark&locale=ru" height="220" alt="streak graph"  />
-</div>
--->
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Nicoskin&theme=shadow-orange&hide_border=true&border_radius=10&locale=ru" height="260" alt="GitHub Streak" />
 </div>
 
 ###
+###
+###
 
+<div align="center">
+  <h3>🚀 Мои сайты</h3>
+</div>
 
-<!--
-**Nicoskin/Nicoskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://nicoskin.github.io/iRacing_planner/#/">
+    <img src="https://img.shields.io/badge/iRacing_Planner-5cdbeb?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJpIiB4MT0iMC4xNSIgeTE9IjAiIHgyPSIwLjQiIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM3ZGY2ZmYiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMwZDljYmIiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0icyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjAuNCI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjN2RmNmZmIi8+PHN0b3Agb2Zmc2V0PSIwLjUiIHN0b3AtY29sb3I9IiMyMmQzZWUiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM1YWVjZmYiLz48L2xpbmVhckdyYWRpZW50PjxnIGlkPSJycCI+PHBhdGggZD0iTTE3NCAxMzUgVjU1IEgyNDVBMjEgMjEgMCAwIDEgMjQ1IDk3IEgxNzQiLz48cGF0aCBkPSJNMzA2IDEzNSBWNTUgSDM3N0EyMSAyMSAwIDAgMSAzNzcgOTcgSDMwNiIvPjwvZz48L2RlZnM+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTE1NyAxMzEpIHNjYWxlKDEuNDc2KSI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNTAgMCkgc2tld1goLTEzKSI+PGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMGEwZDEyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIG9wYWNpdHk9IjAuODUiPjx1c2UgaHJlZj0iI3JwIiBzdHJva2Utd2lkdGg9IjQ0Ii8+PHBhdGggZD0iTTIyOCAxMDYgTDI3NiAxNTAgTDMwNiAxNTIiIHN0cm9rZS13aWR0aD0iMzYiLz48cmVjdCB4PSI5NSIgeT0iLTEiIHdpZHRoPSI0NiIgaGVpZ2h0PSI0NiIgcng9IjgiIGZpbGw9IiMwYTBkMTIiIHN0cm9rZT0ibm9uZSIvPjxyZWN0IHg9Ijk1IiB5PSI0NSIgd2lkdGg9IjQ2IiBoZWlnaHQ9IjExMiIgcng9IjgiIGZpbGw9IiMwYTBkMTIiIHN0cm9rZT0ibm9uZSIvPjwvZz48ZyBmaWxsPSJ1cmwoI2kpIj48cmVjdCB4PSIxMDIiIHk9IjYiIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgcng9IjQiLz48cmVjdCB4PSIxMDIiIHk9IjUyIiB3aWR0aD0iMzIiIGhlaWdodD0iOTgiIHJ4PSI0Ii8+PC9nPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZjdmZiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48dXNlIGhyZWY9IiNycCIgc3Ryb2tlLXdpZHRoPSIzMCIvPjxwYXRoIGQ9Ik0yMjggMTA2IEwyNzYgMTUwIEwzMDYgMTUyIiBzdHJva2Utd2lkdGg9IjIyIi8+PC9nPjxwYXRoIGQ9Ik0yMTQgMTAwIEwyNjMgMTQ1IEw0MzAgMTYyIEwyNTMgMTU5IEwxODQgMTAwIFoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzBhMGQxMiIgc3Ryb2tlLXdpZHRoPSIyMCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgb3BhY2l0eT0iMC44NSIvPjxwYXRoIGQ9Ik0yMTQgMTAwIEwyNjMgMTQ1IEw0MzAgMTYyIEwyNTMgMTU5IEwxODQgMTAwIFoiIGZpbGw9InVybCgjcykiLz48L2c+PC9nPjwvc3ZnPg==" alt="iRacing Planner" />
+  </a>
+  <br>
+  <a href="https://nicoskin.github.io/dota-opishi-i-ugaday/">
+    <img src="https://img.shields.io/badge/Dota:_Опиши_и_Угадай-DA291C?style=for-the-badge&logo=dota2&logoColor=white" alt="Dota Опиши и Угадай" />
+  </a>
+</p>
