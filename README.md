@@ -26,6 +26,10 @@
   <a href="https://nicoskin.github.io/dota-opishi-i-ugaday/">
     <img src="https://img.shields.io/badge/Dota:_Опиши_и_Угадай-DA291C?style=for-the-badge&logo=dota2&logoColor=white" alt="Dota Опиши и Угадай" />
   </a>
+  <br>
+   <a href="https://nicoskin.github.io/Shacklizer/">
+    <img src="https://img.shields.io/badge/%D0%A8%D0%B0%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9%D0%B7%D0%B5%D1%80-FF3D6E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI%2BPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNy41IiBmaWxsPSIjMTQxNjFkIi8%2BPHJlY3QgeD0iNSIgeT0iNi42IiB3aWR0aD0iMjIiIGhlaWdodD0iNC42IiByeD0iMS41IiBmaWxsPSIjZjJmNGZhIi8%2BPHJlY3QgeD0iNSIgeT0iMTMuNyIgd2lkdGg9IjExLjUiIGhlaWdodD0iNC42IiByeD0iMS41IiBmaWxsPSIjZmYzZDZlIi8%2BPHJlY3QgeD0iMTkiIHk9IjEzLjciIHdpZHRoPSI4IiBoZWlnaHQ9IjQuNiIgcng9IjEuNSIgZmlsbD0iIzJmZGZjNCIvPjxyZWN0IHg9IjUiIHk9IjIwLjgiIHdpZHRoPSIxNyIgaGVpZ2h0PSI0LjYiIHJ4PSIxLjUiIGZpbGw9IiM5YWExYjQiLz48L3N2Zz4=" alt="Шакалайзер" />
+  </a>
 </p>
 
 <div align="center">
@@ -36,6 +40,7 @@
   <a href="https://github.com/Nicoskin/AutoClicker/releases/latest/download/Autoclicker.exe">
     <img src="https://img.shields.io/badge/AutoClicker-скачать_.exe-4C8DFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIj48cGF0aCBkPSJNNC4xIDguNGE4LjYgOC42IDAgMCAxIDE0LjYgMCIvPjxwYXRoIGQ9Ik03LjYgMTEuMWE0LjkgNC45IDAgMCAxIDcuNiAwIi8%2BPC9nPjxwYXRoIGQ9Ik04LjIgMTIuNCA4LjIgMjIuNCAxMC43IDIwIDEyLjYgMjMuNiAxNC43IDIyLjUgMTIuOCAxOSAxNi4zIDE4LjZaIiBmaWxsPSIjZmZmIi8%2BPC9zdmc%2B" alt="AutoClicker — скачать" />
   </a>
+  <br>
   <a href="https://github.com/Nicoskin/AutoClicker">
     <img src="https://img.shields.io/badge/исходники_и_описание-1C1F26?style=for-the-badge&logo=github&logoColor=white" alt="Исходники" />
   </a>
