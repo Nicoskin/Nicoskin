@@ -27,6 +27,10 @@
     <img src="https://img.shields.io/badge/Dota:_Опиши_и_Угадай-DA291C?style=for-the-badge&logo=dota2&logoColor=white" alt="Dota Опиши и Угадай" />
   </a>
   <br>
+   <a href="https://nicoskin.github.io/advanced-tic-tac-toe/">
+  <img src="https://img.shields.io/badge/%D0%A3%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%BA%D0%B8--%D0%BD%D0%BE%D0%BB%D0%B8%D0%BA%D0%B8-1B2230?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI%2BPGcgc3Ryb2tlPSIjZTdlY2Y1IiBzdHJva2Utb3BhY2l0eT0iLjQ1IiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIj48cGF0aCBkPSJNMTYgMy41djI1TTMuNSAxNmgyNSIvPjwvZz48cGF0aCBkPSJNNS42IDUuNmw3LjQgNy40TTEzIDUuNmwtNy40IDcuNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNGNjOWYwIiBzdHJva2Utd2lkdGg9IjMuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPGNpcmNsZSBjeD0iMjMiIGN5PSIyMyIgcj0iNC42IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZjdiOWMiIHN0cm9rZS13aWR0aD0iMy40Ii8%2BPC9zdmc%2B" alt="Улучшенные крестики-нолики" />
+</a>
+  <br>
    <a href="https://nicoskin.github.io/Shacklizer/">
     <img src="https://img.shields.io/badge/%D0%A8%D0%B0%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9%D0%B7%D0%B5%D1%80-FF3D6E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI%2BPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNy41IiBmaWxsPSIjMTQxNjFkIi8%2BPHJlY3QgeD0iNSIgeT0iNi42IiB3aWR0aD0iMjIiIGhlaWdodD0iNC42IiByeD0iMS41IiBmaWxsPSIjZjJmNGZhIi8%2BPHJlY3QgeD0iNSIgeT0iMTMuNyIgd2lkdGg9IjExLjUiIGhlaWdodD0iNC42IiByeD0iMS41IiBmaWxsPSIjZmYzZDZlIi8%2BPHJlY3QgeD0iMTkiIHk9IjEzLjciIHdpZHRoPSI4IiBoZWlnaHQ9IjQuNiIgcng9IjEuNSIgZmlsbD0iIzJmZGZjNCIvPjxyZWN0IHg9IjUiIHk9IjIwLjgiIHdpZHRoPSIxNyIgaGVpZ2h0PSI0LjYiIHJ4PSIxLjUiIGZpbGw9IiM5YWExYjQiLz48L3N2Zz4=" alt="Шакалайзер" />
   </a>
