@@ -34,7 +34,11 @@
    <a href="https://nicoskin.github.io/Shacklizer/">
     <img src="https://img.shields.io/badge/%D0%A8%D0%B0%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9%D0%B7%D0%B5%D1%80-FF3D6E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI%2BPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNy41IiBmaWxsPSIjMTQxNjFkIi8%2BPHJlY3QgeD0iNSIgeT0iNi42IiB3aWR0aD0iMjIiIGhlaWdodD0iNC42IiByeD0iMS41IiBmaWxsPSIjZjJmNGZhIi8%2BPHJlY3QgeD0iNSIgeT0iMTMuNyIgd2lkdGg9IjExLjUiIGhlaWdodD0iNC42IiByeD0iMS41IiBmaWxsPSIjZmYzZDZlIi8%2BPHJlY3QgeD0iMTkiIHk9IjEzLjciIHdpZHRoPSI4IiBoZWlnaHQ9IjQuNiIgcng9IjEuNSIgZmlsbD0iIzJmZGZjNCIvPjxyZWN0IHg9IjUiIHk9IjIwLjgiIHdpZHRoPSIxNyIgaGVpZ2h0PSI0LjYiIHJ4PSIxLjUiIGZpbGw9IiM5YWExYjQiLz48L3N2Zz4=" alt="Шакалайзер" />
   </a>
-</p>
+  <br>
+  <a href="https://nicoskin.github.io/Agricola-score-calculation/">
+    <img src="https://img.shields.io/badge/Агрикола:_подсчёт_очков-3B7127?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCI%2BPHBhdGggZD0iTTI0IDRjNC4yIDAgNi44IDIuOCA2LjggNi41IDAgMi40LTEuMSA0LjEtMi44IDUuMyA1LjMuOSAxMi41IDMuMSAxMi41IDcgMCAyLjUtMy4zIDIuNy03LjEgMi4ybDUgMTMuNmMuNSAxLjQtLjQgMi4yLTEuNyAyLjJoLTcuOUwyNCAzNS45bC00LjggNi45aC03LjljLTEuMyAwLTIuMi0uOC0xLjctMi4ybDUtMTMuNmMtMy44LjUtNy4xLjMtNy4xLTIuMiAwLTMuOSA3LjItNi4xIDEyLjUtNy0xLjctMS4yLTIuOC0yLjktMi44LTUuM0MxNy4yIDYuOCAxOS44IDQgMjQgNHoiIGZpbGw9IiNFRkNCNEEiIHN0cm9rZT0iIzRBMzYwQSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPC9zdmc%2B" alt="Агрикола: подсчёт очков" />
+  </a>
+  </p>
 
 <div align="center">
   <h3>🖥️ Программы</h3>
