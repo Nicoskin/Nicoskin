@@ -47,7 +47,15 @@
 <div align="center">
   <h3>🖥️ Программы</h3>
 </div>
-
+<p align="center">
+  <a href="https://github.com/Nicoskin/LightBox/releases/latest/download/lightbox-setup.exe">
+    <img src="https://img.shields.io/badge/Lightbox-скачать_установщик-5B5BF5?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImIiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMyRjdCRkYiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM3QjNDRjAiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0icyIgeDE9IjAiIHkxPSIwIiB4Mj0iMCIgeTI9IjEiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzFDMkE1QyIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzNFNUJCOCIvPjwvbGluZWFyR3JhZGllbnQ%2BPGNsaXBQYXRoIGlkPSJjIj48cmVjdCB4PSIyNC41IiB5PSIzMC41IiB3aWR0aD0iNTEiIGhlaWdodD0iNDEiIHJ4PSIyLjUiLz48L2NsaXBQYXRoPjwvZGVmcz48cmVjdCB4PSI0IiB5PSI0IiB3aWR0aD0iOTIiIGhlaWdodD0iOTIiIHJ4PSIyMSIgZmlsbD0idXJsKCNiKSIvPjxyZWN0IHg9IjE5IiB5PSIyNSIgd2lkdGg9IjYyIiBoZWlnaHQ9IjUyIiByeD0iNyIgZmlsbD0iI2ZmZiIvPjxyZWN0IHg9IjI0LjUiIHk9IjMwLjUiIHdpZHRoPSI1MSIgaGVpZ2h0PSI0MSIgcng9IjIuNSIgZmlsbD0idXJsKCNzKSIvPjxnIGNsaXAtcGF0aD0idXJsKCNjKSI%2BPGNpcmNsZSBjeD0iNjIiIGN5PSI0MSIgcj0iNS44IiBmaWxsPSIjRkZENDVBIi8%2BPHBhdGggZD0iTTQyIDcyIDYwIDQ3IDc4IDcyWiIgZmlsbD0iIzhGQjRGRiIvPjxwYXRoIGQ9Ik0yMiA3MiA0MCA0NCA2MCA3MloiIGZpbGw9IiNmZmYiLz48L2c%2BPC9zdmc%2B" alt="Lightbox — скачать" />
+  </a>
+  <br>
+  <a href="https://github.com/Nicoskin/LightBox">
+    <img src="https://img.shields.io/badge/исходники_и_описание-1C1F26?style=for-the-badge&logo=github&logoColor=white" alt="Исходники Lightbox" />
+  </a>
+</p>
 <p align="center">
   <a href="https://github.com/Nicoskin/AutoClicker/releases/latest/download/Autoclicker.exe">
     <img src="https://img.shields.io/badge/AutoClicker-скачать_.exe-4C8DFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIj48cGF0aCBkPSJNNC4xIDguNGE4LjYgOC42IDAgMCAxIDE0LjYgMCIvPjxwYXRoIGQ9Ik03LjYgMTEuMWE0LjkgNC45IDAgMCAxIDcuNiAwIi8%2BPC9nPjxwYXRoIGQ9Ik04LjIgMTIuNCA4LjIgMjIuNCAxMC43IDIwIDEyLjYgMjMuNiAxNC43IDIyLjUgMTIuOCAxOSAxNi4zIDE4LjZaIiBmaWxsPSIjZmZmIi8%2BPC9zdmc%2B" alt="AutoClicker — скачать" />
